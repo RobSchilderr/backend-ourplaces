@@ -1,6 +1,6 @@
 ## Our Places
 
-This is backend of a showcase project which lets users share places among each other. It is provided with authentication to the user and the user is able to store places, upload pictures and locations. 
+This is backend of a showcase project which lets users share places among each other. It is provided with authentication and the user is able to store places, upload pictures and locations. 
 
 
 ## Link to the website
